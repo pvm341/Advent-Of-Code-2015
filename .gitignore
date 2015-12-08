@@ -30,3 +30,4 @@
 
 # Debug files
 *.dSYM/
+/cha4/nbproject/private/
